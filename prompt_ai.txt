@@ -1,0 +1,30 @@
+KUMPULAN PROMPT AI
+MATA KULIAH KOMPUTASI NUMERIK
+
+1. PROMPT ALGORITMA SPL 3 VARIABEL
+
+Bantu saya menyusun algoritma penyelesaian
+Sistem Persamaan Linear tiga variabel
+menggunakan metode Eliminasi Gauss.
+Jelaskan langkah-langkahnya secara sederhana
+dan sistematis.
+
+2. PROMPT PROGRAM PYTHON SPL
+
+Bantu saya membuat program Python untuk
+menyelesaikan SPL tiga variabel menggunakan
+metode Eliminasi Gauss dengan NumPy.
+Pisahkan program menjadi beberapa cell
+agar dapat dijalankan di Google Colab.
+
+3. PROMPT PENJELASAN KODE
+
+Jelaskan fungsi setiap bagian kode Python
+SPL tiga variabel menggunakan bahasa
+yang mudah dipahami oleh mahasiswa pemula.
+
+4. PROMPT PENGUJIAN PROGRAM
+
+Bantu saya memeriksa hasil program Python
+dan memastikan nilai x, y, dan z sesuai
+dengan sistem persamaan yang digunakan.
