@@ -1,0 +1,18 @@
+ALGORITMA PENYELESAIAN SPL 3 VARIABEL
+METODE ELIMINASI GAUSS
+
+1. Mulai.
+2. Masukkan tiga persamaan linear
+   dengan variabel x, y, dan z.
+3. Bentuk matriks augmented dari
+   persamaan yang dimasukkan.
+4. Periksa elemen pivot pada matriks.
+5. Lakukan pertukaran baris jika
+   diperlukan.
+6. Lakukan eliminasi untuk membuat
+   elemen di bawah diagonal utama
+   menjadi nol.
+7. Lakukan substitusi mundur.
+8. Tentukan nilai x, y, dan z.
+9. Tampilkan hasil perhitungan.
+10. Selesai.
