@@ -1,0 +1,3 @@
+Buatkan algoritma teks dan kode Python interaktif per cell untuk Google Colab 
+guna menyelesaikan persamaan non-linear menggunakan Metode 
+Bisection."
